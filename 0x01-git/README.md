@@ -1,1 +1,1 @@
-## Directory in first repo
+## Update read me an git pull to terminal
